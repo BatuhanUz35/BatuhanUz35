@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhab</h1>
+<h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I am passionate about Data Science and Machine Learning with Python</h3>
 
 <h3 align="left">Connect with me:</h3>
