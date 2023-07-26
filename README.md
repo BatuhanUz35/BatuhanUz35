@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Batuhan</h1>
-<h1 align="left">I am passionate about Data Science and Machine Learning with Python</h3>
-<h1 align="left">I have experience on Front-end Development with React</h3>
+<h3 align="left">Hi 👋, I'm Batuhan</h1>
+<h4 align="left">I am passionate about Data Science and Machine Learning with Python</h3>
+<h4 align="left">I have experience on Front-end Development with React</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
