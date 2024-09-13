@@ -1,6 +1,7 @@
 <h3 align="left">Hi 👋, I'm Batuhan</h1>
-<h4 align="left">I am passionate about Web Development, especially front-end development</h3>
-<h4 align="left">I Data Science and Machine Learning with Python</h3>
+<h4 align="left">I have a strong passion for data science. My academic journey, combined with
+hands-on experience in various data-driven projects, has equipped me with a
+solid foundation in data analysis, machine learning, and statistical modeling.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
